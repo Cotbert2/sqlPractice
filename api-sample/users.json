@@ -1,0 +1,399 @@
+[
+    {
+      "username": "1722582317",
+      "nombre": "Stefany",
+      "apellido": "Díaz",
+      "edad": 19,
+      "fechaDeNacimiento": "2005-02-15",
+      "genero": "femenino",
+      "correo": "smdiaz5@espe.edu.ec",
+      "direccion": "Mena 2",
+      "trabajo": "no",
+      "materiasQueToma": [
+        "Sistemas de Bases de Datos",
+        "Computacion Paralela",
+        "Computación Digital",
+        "Programación Web",
+        "Usabilidad",
+        "Modelos de Procesos"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1753715695",
+      "nombre": "Jeffrey",
+      "apellido": "Manobanda",
+      "edad": 22,
+      "fechaDeNacimiento": "2002-06-22",
+      "genero": "masculino",
+      "correo": "jamanobanda3@espe.edu.ec",
+      "direccion": "Balcon del Valle",
+      "trabajo": "no",
+      "materiasQueToma": [
+        "Sistemas de Bases de Datos",
+        "Ingenieria de requisitos",
+        "Desarrollo Web Avanzado",
+        "Investigacion de Ingenieria de Software",
+        "Redes de computadores",
+        "Computacion Grafica"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1308875291",
+      "nombre": "Pamela",
+      "apellido": "Chipe",
+      "edad": 20,
+      "fechaDeNacimiento": "2004-06-11",
+      "genero": "femenino",
+      "correo": "pnchipe@espe.edu.ec",
+      "direccion": "Sangolqui",
+      "trabajo": "Bartender, Mesera, Recepcionista",
+      "materiasQueToma": [
+        "Sistemas de Bases de Datos",
+        "Ingenieria de requisitos",
+        "Desarrollo Web Avanzado",
+        "Investigacion de Ingenieria de Software",
+        "Redes de computadores",
+        "Computacion Grafica"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1753866878",
+      "nombre": "Jhordy",
+      "apellido": "Marcillo",
+      "edad": 21,
+      "fechaDeNacimiento": "2003-09-20",
+      "genero": "masculino",
+      "correo": "jpmarcillo2@gmail.com",
+      "direccion": "sangolqui",
+      "trabajo": "no",
+      "materiasQueToma": [
+        "bases de datos",
+        "desarrollo web avanzado",
+        "requisitos",
+        "grafica",
+        "investigacion",
+        "redes"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1756095228",
+      "nombre": "Jonathan",
+      "apellido": "Jaguaco",
+      "edad": 21,
+      "fechaDeNacimiento": "2003-07-06",
+      "genero": "masculino",
+      "correo": "jjjaguaco@espe.edu.ec",
+      "direccion": "Los Cuarteles",
+      "trabajo": "no",
+      "materiasQueToma": [
+        "Sistemas de Bases de Datos",
+        "Programación Web",
+        "Estadística",
+        "Computación Paralela",
+        "Ingenieria de Usabilidad"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1726180589",
+      "nombre": "Kevin",
+      "apellido": "Amaguana",
+      "edad": 22,
+      "fechaDeNacimiento": "2002-10-22",
+      "genero": "masculino",
+      "correo": "kfmaguana@espe.edu.ec",
+      "direccion": "Machachi",
+      "trabajo": "no",
+      "materiasQueToma": [
+        "Base de Datos",
+        "Ingenieria de Requisitos",
+        "Programacion Web",
+        "Investigacion",
+        "Computacion Paralela"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1725950619",
+      "nombre": "Mateo",
+      "apellido": "Iza",
+      "edad": 20,
+      "fechaDeNacimiento": "2004-04-04",
+      "genero": "Maculino",
+      "correo": "jmiza5@espe.edu.ec",
+      "direccion": "Nueva Auroa",
+      "trabajo": "no",
+      "materiasQueToma": [
+        "Base de datos",
+        "Modelos del procesos",
+        "Computacion paralela",
+        "computacion digital",
+        "programacion web",
+        "usabilidad",
+        "ingles"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1754708798",
+      "nombre": "Eduardo",
+      "apellido": "García",
+      "edad": 22,
+      "fechaDeNacimiento": "2002-04-27",
+      "genero": "masculino",
+      "correo": "edgarcia9@espe.edu.ec",
+      "direccion": "Chillogallo",
+      "trabajo": "mesero",
+      "materiasQueToma": [
+        "Base de datos",
+        "Modelos del procesos",
+        "Computacion paralela",
+        "computacion digital",
+        "programacion web",
+        "usabilidad",
+        "ingles"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1728912070",
+      "nombre": "Mateo",
+      "apellido": "Garcia",
+      "edad": 19,
+      "fechaDeNacimiento": "2005-01-02",
+      "genero": "masculino",
+      "correo": "mateojgarciag@gmail.com",
+      "direccion": "Enrique Segoviano",
+      "trabajo": "Full Stack Developer en Ati Jaguar Ltda",
+      "materiasQueToma": [
+        "Sistemas de Bases de Datos",
+        "Ingenieria de requisitos",
+        "Desarrollo Web Avanzado",
+        "Investigacion de Ingenieria de Software",
+        "Redes de computadores",
+        "Computacion Grafica"
+      ],
+      "password": "sdfsdf"
+    },
+    {
+      "username": "0605945104",
+      "nombre": "David",
+      "apellido": "Cepeda",
+      "edad": 19,
+      "fechaDeNacimiento": "2005-01-13",
+      "genero": "masculino",
+      "correo": "dgcepeda1@espe.edu.ec",
+      "direccion": "Colina",
+      "trabajo": "no",
+      "materiasQueToma": [
+        "Sistemas de Bases de Datos",
+        "Computacion Paralela",
+        "Metodos Numericos",
+        "Programación Web",
+        "Usabilidad",
+        "Modelos de Procesos de Desarollo de Software"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1721623351",
+      "nombre": "Erick",
+      "apellido": "Obando",
+      "edad": 21,
+      "fechaDeNacimiento": "2003-09-12",
+      "genero": "masculino",
+      "correo": "epobando1@espe.edu.ec",
+      "direccion": "Luis Felipe Borja y Charles Darwin",
+      "trabajo": "no",
+      "materiasQueToma": [
+        "Base de datos",
+        "Web",
+        "Estadistica",
+        "Modelos de proceso",
+        "Computacion paralela"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1726385162",
+      "nombre": "Gabriel",
+      "apellido": "Vivanco",
+      "edad": 22,
+      "fechaDeNacimiento": "2003-01-04",
+      "genero": "masculino",
+      "correo": "gnvivanco1@espe.edu.ec",
+      "direccion": "Urb La Catolica",
+      "trabajo": "no",
+      "materiasQueToma": [
+        "Sistemas de Bases de Datos",
+        "Computacion Paralela",
+        "Computación Digital",
+        "Programación Web",
+        "Usabilidad",
+        "Modelos de Procesos"
+      ],
+      "password": "passwd"
+    },
+    {
+      "username": "1726329772",
+      "nombre": "Luis",
+      "apellido": "Sagnay",
+      "edad": 20,
+      "fechaDeNacimiento": "2004-06-14",
+      "genero": "masculino",
+      "correo": "lesagnay@espe.edu.ec",
+      "direccion": "Guamani",
+      "trabajo": "no",
+      "materiasQueToma": [
+        "Sistemas de Bases de Datos",
+        "Computacion Paralela",
+        "Computación Digital",
+        "Programación Web",
+        "Usabilidad",
+        "Modelos de Procesos"
+      ],
+      "password": "passwd"
+    },
+    {
+        "username": "1753688215",
+        "nombre": "Sebastián",
+        "apellido": "Parra",
+        "edad": 20,
+        "fechaDeNacimiento": "2004-11-04",
+        "genero": "masculino",
+        "correo": "sparra@espe.edu.ec",
+        "direccion": "Valle de los Chillos",
+        "trabajo": "no",
+        "materiasQueToma": [
+            "Sistemas de Bases de Datos",
+            "Computacion Paralela",
+            "Computación Digital",
+            "Programación Web",
+            "Usabilidad",
+            "Modelos de Procesos"
+        ],
+        "password": "passwd"
+    },
+    {
+        "username": "1727313023",
+        "nombre": "Alison",
+        "apellido": "Miranda",
+        "edad": 20,
+        "fechaDeNacimiento": "2004-01-31",
+        "genero": "femenino",
+        "correo": "asmiranda@espe.edu.ec",
+        "direccion": "Sangolqui",
+        "trabajo": "si",
+        "materiasQueToma": [
+            "Sistemas de Bases de Datos",
+            "Computacion Paralela",
+            "Computación Digital",
+            "Programación Web",
+            "Usabilidad",
+            "Inv. de la Ing. de Sw"
+        ],
+        "password": "passwd"
+    },
+    {
+        "username": "1725425696",
+        "nombre": "Bryan",
+        "apellido": "Jumbo",
+        "edad": 22,
+        "fechaDeNacimiento": "2002-11-26",
+        "genero": "masculino",
+        "correo": "najumbo1@espe.edu.ec",
+        "direccion": "Isabel Herreria El transito",
+        "trabajo": "No aplica",
+        "materiasQueToma": [
+            "Base de datos",
+            "Web",
+            "Realidad Nacional",
+            "Modelos de proceso",
+            "Computacion paralela",
+            "Usabilidad"
+        ],
+        "password": "passwd"
+    },
+    {
+        "username": "1005043458",
+        "nombre": "Jefferson",
+        "apellido": "Yépez",
+        "edad": 20,
+        "fechaDeNacimiento": "2004-06-25",
+        "genero": "masculino",
+        "correo": "jdyepez6@espe.edu.ec",
+        "direccion": "Ibarra",
+        "trabajo": "no",
+        "materiasQueToma": [
+            "Sistemas de Bases de Datos",
+            "Computacion Paralela",
+            "Computación Digital",
+            "Programación Web",
+            "Usabilidad",
+            "Modelos de Procesos"
+        ],
+        "password": "passwd"
+    },
+    {
+        "username": "1308875291",
+        "nombre": "Mayeli",
+        "apellido": "Ortiz",
+        "edad": 22,
+        "fechaDeNacimiento": "2002-09-04",
+        "genero": "femenino",
+        "correo": "mortiz2@espe.edu.ec",
+        "direccion": "Sangolqui",
+        "trabajo": "Niñera",
+        "materiasQueToma": [
+            "Sistemas de Bases de Datos",
+            "Computacion Web",
+            "Computacion Paralela",
+            "Redes de computadores",
+            "Computacion Grafica"
+        ],
+        "password": "passwd"
+    },
+    {
+        "username": "1727486895",
+        "nombre": "Alexander",
+        "apellido": "Ñacato",
+        "edad": 19,
+        "fechaDeNacimiento": "2004-11-11",
+        "genero": "masculino",
+        "correo": "alexandernacato@gamil.com",
+        "direccion": "Sangolqui, Quito, Ecuador",
+        "trabajo": "Mesero",
+        "materiasQueToma": [
+            "Sistemas de Bases de Datos",
+            "Computacion Web",
+            "Computacion Paralela",
+            "Redes de computadores",
+            "Computacion Grafica"
+        ],
+        "password": "passwd"
+    },
+    {
+        "username": "1727851428",
+        "nombre": "Mateo",
+        "apellido": "Criollo",
+        "edad": 20,
+        "fechaDeNacimiento": "2004-04-15",
+        "genero": "masculino",
+        "correo": "mgcriollo1@espe.edu.ec",
+        "direccion": "Cuendina",
+        "trabajo": "No aplica",
+        "materiasQueToma": [
+            "Sistemas de Bases de Datos",
+            "Computacion Paralela",
+            "Computación Digital",
+            "Programación Web",
+            "Usabilidad",
+            "Modelos de Procesos"
+        ],
+        "password": "passwd"
+    }
+]
